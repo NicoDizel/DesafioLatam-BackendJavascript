@@ -1,2 +1,1 @@
-# DesafioLatam-BackendJavascript
-Desafíos e hitos entregados para la especialización de desarrollo Back-End 2024-2025.
+# Módulo 4 - Desafio 1 / Datos optimizados en una base de datos relacional
