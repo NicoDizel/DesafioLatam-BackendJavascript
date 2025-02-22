@@ -1,2 +1,1 @@
-# DesafioLatam-BackendJavascript
-Desafíos e hitos entregados para la especialización de desarrollo Back-End 2024-2025.
+# Entrega Hito 2 / Diseño de API REST con Node y Express
