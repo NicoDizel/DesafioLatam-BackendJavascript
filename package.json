@@ -1,0 +1,28 @@
+{
+  "name": "desafiolatam-backendjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoDizel/DesafioLatam-BackendJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoDizel/DesafioLatam-BackendJavascript/issues"
+  },
+  "homepage": "https://github.com/NicoDizel/DesafioLatam-BackendJavascript#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  },
+  "type": "module"
+}
