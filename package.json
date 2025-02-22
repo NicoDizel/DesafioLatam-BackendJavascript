@@ -1,0 +1,20 @@
+{
+  "name": "desafiolatam-backendjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gestor_inventario_ventas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoDizel/DesafioLatam-BackendJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoDizel/DesafioLatam-BackendJavascript/issues"
+  },
+  "homepage": "https://github.com/NicoDizel/DesafioLatam-BackendJavascript#readme"
+}
