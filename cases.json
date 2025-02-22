@@ -1,0 +1,145 @@
+{
+  "cases": [
+    {
+      "caseId": "C001",
+      "title": "Divorcio García vs. López",
+      "type": "Familiar",
+      "status": "En Proceso",
+      "startDate": "2023-05-01",
+      "endDate": null,
+      "description": "Caso de divorcio con disputas de custodia y bienes.",
+      "assignedLawyers": ["A001", "A002"],
+      "clients": ["CL001", "CL002"],
+      "court": {
+        "name": "Juzgado Familiar No. 3",
+        "location": "Santiago, Chile"
+      },
+      "documents": [
+        {
+          "documentId": "D001",
+          "name": "Demanda de divorcio",
+          "type": "Demanda",
+          "filePath": "/documentos/C001/DemandaDivorcio.pdf",
+          "dateUploaded": "2023-05-03"
+        },
+        {
+          "documentId": "D002",
+          "name": "Acuerdo de custodia preliminar",
+          "type": "Acuerdo",
+          "filePath": "/documentos/C001/AcuerdoCustodia.pdf",
+          "dateUploaded": "2023-06-10"
+        }
+      ]
+    },
+    {
+      "caseId": "C002",
+      "title": "Contrato laboral López vs. Empresa XYZ",
+      "type": "Laboral",
+      "status": "Resuelto",
+      "startDate": "2022-11-15",
+      "endDate": "2023-01-20",
+      "description": "Caso por despido injustificado y compensación laboral.",
+      "assignedLawyers": ["A003"],
+      "clients": ["CL003"],
+      "court": {
+        "name": "Juzgado Laboral No. 2",
+        "location": "Santiago, Chile"
+      },
+      "documents": [
+        {
+          "documentId": "D003",
+          "name": "Demanda por despido injustificado",
+          "type": "Demanda",
+          "filePath": "/documentos/C002/DemandaLaboral.pdf",
+          "dateUploaded": "2022-11-16"
+        },
+        {
+          "documentId": "D004",
+          "name": "Respuesta de la empresa",
+          "type": "Respuesta",
+          "filePath": "/documentos/C002/RespuestaEmpresa.pdf",
+          "dateUploaded": "2022-12-01"
+        }
+      ]
+    },
+    {
+      "caseId": "C003",
+      "title": "Herencia Pérez",
+      "type": "Sucesión",
+      "status": "En Proceso",
+      "startDate": "2023-08-01",
+      "endDate": null,
+      "description": "Disputa sobre el testamento de un familiar fallecido.",
+      "assignedLawyers": ["A002"],
+      "clients": ["CL004"],
+      "court": {
+        "name": "Juzgado Civil No. 4",
+        "location": "Santiago, Chile"
+      },
+      "documents": [
+        {
+          "documentId": "D005",
+          "name": "Testamento original",
+          "type": "Evidencia",
+          "filePath": "/documentos/C003/Testamento.pdf",
+          "dateUploaded": "2023-08-05"
+        }
+      ]
+    },
+    {
+      "caseId": "C004",
+      "title": "Defensa penal González",
+      "type": "Penal",
+      "status": "En Proceso",
+      "startDate": "2023-09-10",
+      "endDate": null,
+      "description": "Defensa en un caso de acusación por robo.",
+      "assignedLawyers": ["A004"],
+      "clients": ["CL005"],
+      "court": {
+        "name": "Juzgado Penal No. 1",
+        "location": "Santiago, Chile"
+      },
+      "documents": [
+        {
+          "documentId": "D006",
+          "name": "Auto de formal prisión",
+          "type": "Resolución",
+          "filePath": "/documentos/C004/AutoFormalPrision.pdf",
+          "dateUploaded": "2023-09-15"
+        }
+      ]
+    },
+    {
+      "caseId": "C005",
+      "title": "Registro de marca para Innovatech",
+      "type": "Propiedad Intelectual",
+      "status": "Completado",
+      "startDate": "2023-01-01",
+      "endDate": "2023-03-15",
+      "description": "Registro de una marca comercial para una empresa tecnológica.",
+      "assignedLawyers": ["A005"],
+      "clients": ["CL006"],
+      "court": {
+        "name": "Instituto Nacional de Propiedad Intelectual",
+        "location": "Santiago, Chile"
+      },
+      "documents": [
+        {
+          "documentId": "D007",
+          "name": "Solicitud de registro",
+          "type": "Solicitud",
+          "filePath": "/documentos/C005/SolicitudRegistro.pdf",
+          "dateUploaded": "2023-01-05"
+        },
+        {
+          "documentId": "D008",
+          "name": "Certificado de registro de marca",
+          "type": "Certificado",
+          "filePath": "/documentos/C005/CertificadoMarca.pdf",
+          "dateUploaded": "2023-03-16"
+        }
+      ]
+    }
+  ]
+}
