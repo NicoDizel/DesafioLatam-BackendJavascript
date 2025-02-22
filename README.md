@@ -1,2 +1,1 @@
-# DesafioLatam-BackendJavascript
-Desafíos e hitos entregados para la especialización de desarrollo Back-End 2024-2025.
+# Módulo 2 - Desafio 1 / Introducción a Javascript
