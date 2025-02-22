@@ -1,2 +1,1 @@
-# DesafioLatam-BackendJavascript
-Desafíos e hitos entregados para la especialización de desarrollo Back-End 2024-2025.
+# Entrega Hito 4 / Acceso a datos relacionales y no relacionales con ORM y ODM en Node y Express
