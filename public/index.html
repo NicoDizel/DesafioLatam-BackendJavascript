@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sistema de Mensajería WebSocket</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://cdn.socket.io/4.8.1/socket.io.min.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Elemento para mostrar el mensaje de bienvenida -->
+        <div id="welcomeMsg" class="welcome"></div>
+        <h1>Sistema de Mensajería WebSocket</h1>
+        <div id="userList"></div>
+        <div id="messages"></div>
+        <div class="input-group">
+            <input type="text" id="messageInput" placeholder="Escribe un mensaje...">
+            <button id="sendButton" onclick="sendMessage()">Enviar</button>
+        </div>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

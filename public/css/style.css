@@ -1,0 +1,78 @@
+/* Estilos generales */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #0d47a1;
+    /* Fondo azul oscuro */
+    color: #fff;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Estilos para la lista de usuarios y mensajes */
+#userList,
+#messages {
+    background: rgba(255, 255, 255, 0.15);
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#userList h3 {
+    margin-top: 0;
+}
+
+.message {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+}
+
+/* Estilos para el input y el botón de enviar */
+.input-group {
+    display: flex;
+}
+
+#messageInput {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    border-radius: 8px;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+#sendButton {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background: #1976d2;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+#sendButton:hover {
+    background: #1565c0;
+}
+
+/* Estilo para el mensaje de bienvenida */
+.welcome {
+    font-size: 18px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+  }
+  

@@ -1,0 +1,29 @@
+{
+  "name": "desafiolatam-backendjavascript",
+  "version": "1.0.0",
+  "description": "Desafíos e hitos entregados para la especialización de desarrollo Back-End 2024-2025.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicoDizel/DesafioLatam-BackendJavascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicoDizel/DesafioLatam-BackendJavascript/issues"
+  },
+  "homepage": "https://github.com/NicoDizel/DesafioLatam-BackendJavascript#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9",
+    "path": "^0.12.7",
+    "socket.io": "^4.8.1"
+  }
+}
